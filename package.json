@@ -1,0 +1,27 @@
+{
+  "name": "galaxyjourney",
+  "version": "1.0.0",
+  "description": "POC - show how easy it is to cheat... please do not use this script to win",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longstone/galaxyjourney.git"
+  },
+  "keywords": [
+    "samsung",
+    "galaxy",
+    "journey"
+  ],
+  "author": "longstone <contact@longstone.ch>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longstone/galaxyjourney/issues"
+  },
+  "homepage": "https://github.com/longstone/galaxyjourney#readme",
+  "dependencies": {
+    "js-combinatorics": "^0.5.0"
+  }
+}
